@@ -109,7 +109,7 @@ For more information about sidebars and how they relate to doc pages, see [Navba
 
 ## Understanding sidebar items
 
-As the name implies, `SidebarItem` is an item defined in a Sidebar. A sibarItem as a `type` that defines what the item links to.
+As the name implies, `SidebarItem` is an item defined in a Sidebar. A `SidebarItem` has a `type` that defines what the item links to.
 
 `type` supports the following values
 
